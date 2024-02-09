@@ -1,0 +1,32 @@
+https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt
+  out=Stable-diffusion/v1-5-pruned-emaonly.safetensors
+https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt
+  out=VAE/vae-ft-mse-840000-ema-pruned.ckpt
+https://huggingface.co/runwayml/stable-diffusion-inpainting/resolve/main/sd-v1-5-inpainting.ckpt
+  out=Stable-diffusion/sd-v1-5-inpainting.ckpt
+https://huggingface.co/cagliostrolab/animagine-xl-3.0/resolve/main/animagine-xl-3.0.safetensors
+  out=Stable-diffusion/animagine-xl-3.0.safetensors
+https://huggingface.co/cagliostrolab/animagine-xl-3.0-base/resolve/main/animagine-xl-3.0-base.safetensors
+  out=Stable-diffusion/animagine-xl-3.0-base.safetensors
+https://huggingface.co/gsdf/Counterfeit-V3.0/resolve/main/Counterfeit-V3.0_fix_fp16.safetensors
+  out=Stable-diffusion/Counterfeit-V3.0_fix_fp16.safetensors
+https://huggingface.co/gsdf/CounterfeitXL-V2.0/resolve/main/CounterfeitXL-V2.5.safetensors
+  out=Stable-diffusion/CounterfeitXL-V2.5.safetensors
+https://civitai.com/api/download/models/78676
+  out=Stable-diffusion/cetusMix_v4.safetensors
+https://civitai.com/api/download/models/20570
+  out=Stable-diffusion/popPopcornMix_popPopcornMix.safetensors
+https://civitai.com/api/download/models/62732
+  out=Stable-diffusion/popPopcornMix_popPopcornVivid.safetensors
+https://civitai.com/api/download/models/62292
+  out=Stable-diffusion/popPopcornMix_popPopcornLight.ckpt
+https://github.com/TencentARC/GFPGAN/releases/download/v1.3.4/GFPGANv1.4.pth
+  out=GFPGAN/GFPGANv1.4.pth
+https://github.com/xinntao/Real-ESRGAN/releases/download/v0.1.0/RealESRGAN_x4plus.pth
+  out=RealESRGAN/RealESRGAN_x4plus.pth
+https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.2.4/RealESRGAN_x4plus_anime_6B.pth
+  out=RealESRGAN/RealESRGAN_x4plus_anime_6B.pth
+https://heibox.uni-heidelberg.de/f/31a76b13ea27482981b4/?dl=1
+  out=LDSR/project.yaml
+https://heibox.uni-heidelberg.de/f/578df07c8fc04ffbadf3/?dl=1
+  out=LDSR/model.ckpt

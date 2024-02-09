@@ -1,0 +1,5 @@
+data/*
+output/*
+.env
+.env.*
+.env.example

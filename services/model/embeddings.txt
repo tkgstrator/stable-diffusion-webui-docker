@@ -1,0 +1,4 @@
+https://huggingface.co/datasets/gsdf/EasyNegative/resolve/main/EasyNegative.safetensors
+  out=EasyNegative.safetensors
+https://huggingface.co/gsdf/Counterfeit-V3.0/resolve/main/embedding/EasyNegativeV2.safetensors
+  out=EasyNegativeV2.safetensors
